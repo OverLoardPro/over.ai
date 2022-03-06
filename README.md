@@ -1,2 +1,4 @@
 # over.ai
-asdf
+Discord bot WIP
+(i do not know when
+i will finish this)
